@@ -1,0 +1,25 @@
+{
+  "name": "no-proxy",
+  "version": "1.0.0",
+  "description": "Determine if a url should bypass a proxy based on NO_PROXY environment variable.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tracker1/node-no-proxy.git"
+  },
+  "author": "Michael J. Ryan <tracker1@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tracker1/node-no-proxy/issues"
+  },
+  "homepage": "https://github.com/tracker1/node-no-proxy#readme",
+  "dependencies": {
+    "wildcard": "^1.1.2"
+  },
+  "optionalDependencies": {
+    "url-parse": "^1.2.0"
+  }
+}
