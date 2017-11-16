@@ -1,6 +1,6 @@
 {
   "name": "no-proxy",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Determine if a url should bypass a proxy based on NO_PROXY environment variable.",
   "main": "index.js",
   "repository": {
