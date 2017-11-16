@@ -22,4 +22,4 @@ NOTE: You may want to use memoization around this module.
 
 #### WARNING
 
-If you are using a node version prior to Node 8, you need to install `parse-url` as a dependency.
+If you are using a node version prior to Node 8, you need to install `url-parse` as a dependency.
