@@ -19,7 +19,7 @@ function setProxyList() {
     .filter(function(m) {
       return m;
     });
-  proxyList = proxies.length ? proxies : null;
+  proxyList = proxies.length ? proxies : [];
 }
 
 
